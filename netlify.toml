@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/"
-  to = "https://developer.nylas.com/some-really-long-url-lives-here/:splat"
-  status = 200
+  to = "https://developer.nylas.com/some-really-long-url-lives-here"
+  status = 301
   force = true
